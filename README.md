@@ -5,6 +5,10 @@
 
 ![barrage](https://user-gold-cdn.xitu.io/2019/7/20/16c0f1a946a59f3e?w=480&h=188&f=gif&s=4517801)
 
+### 在线DEMO
+
+效果如果看不到请[点击这里](https://user-gold-cdn.xitu.io/2019/7/20/16c0f1a946a59f3e?w=480&h=188&f=gif&s=4517801)
+
 ### 功能点
 
 1. 支持循环弹幕
