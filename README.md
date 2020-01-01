@@ -6,6 +6,8 @@
 
 ![barrage](https://user-gold-cdn.xitu.io/2019/7/20/16c0f1a946a59f3e?w=480&h=188&f=gif&s=4517801)
 
+如果看不到请[点击这里](https://user-gold-cdn.xitu.io/2019/7/20/16c0f1a946a59f3e?w=480&h=188&f=gif&s=4517801)
+
 #### ② 项目引用
 
 `npm install vue-barrage`
@@ -19,6 +21,8 @@
 #### ① 效果
 
 ![Draggable](https://user-gold-cdn.xitu.io/2019/12/26/16f42e02c2eefbab?w=335&h=600&f=gif&s=5226115)
+
+如果看不到请[点击这里](https://user-gold-cdn.xitu.io/2019/12/26/16f42e02c2eefbab?w=335&h=600&f=gif&s=5226115)
 
 #### ② 项目引用
 
